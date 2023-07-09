@@ -1,0 +1,27 @@
+
+  .left-side {
+    margin-right: 16px; /* Adjust the margin value as needed */
+  }  
+  .right-side {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 40rem;
+  }
+  .footer{
+    margin-left: 45rem;
+    /* padding-left: 70px; */
+    /* margin-bottom: 60px; */
+  }
+  .button{
+    border-radius: 10px;
+    border-color:#2648f7 ;
+    transform: translateY(-50%);
+    color: #2648f7;
+   
+
+  }
+  .button:hover{
+    box-shadow: inset;
+  }
+  
